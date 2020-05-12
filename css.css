@@ -1,0 +1,63 @@
+* {
+     margin: 0;
+     padding: 0;
+}
+
+.my-slider div {
+     position: relative;
+     width: 100vw;
+     height: 100vh;
+     background-size: 100% 100%;
+     background-position: center;
+}
+
+h3 {
+     font-family: fantasy;
+     color: black;
+     background-color: rgba(255, 255, 255, 0.5);
+     position: absolute;
+     padding: 9px 20px;
+     bottom: 2rem;
+     left: 5rem;
+     border-radius: 1.3rem
+}
+
+section {
+     background-color: rgba(0, 100, 255, 0.3);
+}
+
+#vertical div {
+     background-color: rgba(255, 255, 255, 0.5);
+     height: auto;
+     position: relative;
+     border-radius: 1.3rem
+}
+
+p {
+     height: 5vh;
+     margin-top: 5px;
+     font-family: fantasy;
+     color: black;
+     background-color: rgba(255, 255, 255, 0.5);
+     padding: 9px 20px;
+     text-align: center;
+}
+
+button {
+     text-decoration: none;
+     text-align: center;
+     color: #3cbabe;
+     border: 2px solid #3cbabe;
+     border-radius: 4px;
+     width: 150px;
+     line-height: 40px;
+     display: inline-block;
+     font-family: Arial;
+     font-weight: 600;
+}
+
+button:hover {
+     background-color: #3cbabe;
+     color: #ffffff;
+     border-bottom: 2px solid #319598;
+}
