@@ -3,4 +3,4 @@ Pierwszy w życiu slider
 
 don't judge ;)
 
-https://kubaf13.github.io/first_slider/index.html
+https://kubaf13.github.io/first_slider/
